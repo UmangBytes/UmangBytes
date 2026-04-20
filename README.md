@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm current looking for internship in MERN. 
-I am currently learning and building ai powered websites with MERN.
+Hi, I'm Umang — a web development enthusiast and computer science student.
+I enjoy building clean, responsive, and user-friendly web experiences.
+Currently sharpening my skills in frontend & backend technologies,
+and always looking to learn something new. Open to collaborations and opportunities!
 
 
 ## 🌐 Socials:
@@ -17,5 +19,3 @@ I am currently learning and building ai powered websites with MERN.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UmangBytes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
